@@ -5,7 +5,7 @@ This is the developed classifier in a paper ["A case study of viziometrics: What
 If you find it useful, please consider to cite: 
 ```
 @inproceedings{western-recognize,
-  title={{A Data Driven Approach for Compound Figure Separation Using Convolutional Neural Networks}},
+  title={{A case study of viziometrics: What's the role of western blots in Alzheimer's Disease literature?}},
   author={Satoshi Tsutsui etal},
   booktitle={{iConference}},
   year={2018}
