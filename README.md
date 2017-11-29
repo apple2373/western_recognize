@@ -44,3 +44,7 @@ An example is
 python western_recognize.py --img imgs/ --out western-blot-images.txt
 ```
 then  `western-blot-images.txt` will have the file names of western blot images. 
+
+
+### samlple image source
+The sample images are cropped from [PMC4076561](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4076561/figure/fig5/). 
